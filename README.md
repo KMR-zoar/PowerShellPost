@@ -12,3 +12,7 @@ iex (New-Object Net.WebClient).DownloadString("https://gist.githubusercontent.co
 ```
 
 This module uses the [CoreTweet](https://github.com/CoreTweet/CoreTweet/wiki).
+
+----
+Copyright (c) 2015 Zoar   
+[Released under the MIT LICENCE](http://opensource.org/licenses/mit-license.php)
